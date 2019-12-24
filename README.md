@@ -1,4 +1,4 @@
-# AMD-OpenCore-Configs
+# OpenCore-Configs
 OpenCore configurations for my Hackintoshes
 
 ## Configurations
